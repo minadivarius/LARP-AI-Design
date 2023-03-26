@@ -31,6 +31,8 @@ Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge 
 
 ## Support
 
-Si te ha resultado útil, puedes invitarme a un café: [https://ko-fi.com/albadivarius](https://ko-fi.com/albadivarius)
+Si te ha resultado útil, puedes invitarme a un café en [https://ko-fi.com/albadivarius](https://ko-fi.com/albadivarius)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8JR7DH)
 
 ¡Gracias!
