@@ -48,6 +48,7 @@ Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge 
 ## Prompts
 
 - [Multiprompt de ChatGPT para larp designers](https://ko-fi.com/s/c2f33d87df), de Alba Torrebejano
+- [Inicio del desarrollo de un rol en vivo narrativo con AgentGPT](https://github.com/minadivarius/LARP-AI-Design/blob/main/Larp%20narrativo%20con%20agentGPT.png)
 
 
 ## Support
