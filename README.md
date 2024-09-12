@@ -51,6 +51,7 @@ Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge 
 
 - [Multiprompt de ChatGPT para larp designers](https://ko-fi.com/s/c2f33d87df), de Alba Torrebejano
 - [Inicio del desarrollo de un rol en vivo narrativo con AgentGPT](https://github.com/minadivarius/LARP-AI-Design/blob/main/Larp%20narrativo%20con%20agentGPT.png)
+- [Registro de los prompts originales para el diseño de Project Dark.ia](https://github.com/minadivarius/LARP-AI-Design/blob/main/ChatGPT%20-%20IA%20creating%20Larp%20-%20Project%20Darkia.md)
 
 
 ## Opinión personal ante posibles polémicas
@@ -126,6 +127,7 @@ Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge 
 
 - [Multiprompt de ChatGPT para larp designers](https://ko-fi.com/s/c2f33d87df), de Alba Torrebejano [English soon]
 - [Inicio del desarrollo de un rol en vivo narrativo con AgentGPT](https://github.com/minadivarius/LARP-AI-Design/blob/main/Larp%20narrativo%20con%20agentGPT.png) [Spanish only]
+- [Original design prompts for Project Dark.ia](https://github.com/minadivarius/LARP-AI-Design/blob/main/ChatGPT%20-%20IA%20creating%20Larp%20-%20Project%20Darkia.md) [Spanish only]
 
 
 ## Personal opinion on possible controversies
