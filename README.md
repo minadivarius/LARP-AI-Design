@@ -39,10 +39,9 @@ Si quieres añadir o modificar contenidos puedes hacer un fork de este repositor
 
 ## Papers
 
+- [Could an AI design a larp? Processes and applications](https://dl.digra.org/index.php/dl/article/view/1916) - Torrebejano. 2023. Vía DiGRA. [Solo en inglés]
 - [Applications of Artificial Intelligence in Live
 Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge et al. 2020. [Aclaración: Este paper no es mío] [Solo en inglés]
-- **AI and larp design** (DiGRA) - Torrebejano. 2023. PRÓXIMAMENTE
-
 
 ## Vídeos
 - [Alba Torrebejano en EntreReVs 2023: Inteligencia Artificial y Larp Design](https://www.youtube.com/live/ocHo1whXI7Q?feature=share&t=223)
@@ -114,9 +113,9 @@ If you want to add or modify content you can make a fork of this repository and 
 
 ## Papers
 
+- [Could an AI design a larp? Processes and applications](https://dl.digra.org/index.php/dl/article/view/1916) - Torrebejano. 2023. DiGRA. [English only]
 - [Applications of Artificial Intelligence in Live
-Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge et al. 2020. [Clarification: this paper is not mine] [English only]
-- **AI and larp design** (DiGRA) - Torrebejano. 2023. COMING SOON
+Action Role-Playing Games (LARP)](https://arxiv.org/pdf/2008.11003.pdf) - Salge et al. 2020. [Warning: This paper is not mine] [English only]
 
 
 ## Videos
